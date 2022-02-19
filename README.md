@@ -21,6 +21,7 @@
 
 ```csharp
 namespace EmirhanPala;
+
 struct Me
 {
     public static string Pronouns { get; } = "He/Him";
