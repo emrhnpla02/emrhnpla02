@@ -39,7 +39,7 @@ struct Me
 ---
 
 <div id="stats" align="center">
-  <h1> If you want to check my stats: <img src="https://media.giphy.com/media/PnrgT0aP27uMv0GNUO/giphy.gif" width="30px"/></h3>
+  <h1> Here is my stats: <img src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif" width="30px"/></h3>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emrhnpla02&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
