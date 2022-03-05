@@ -30,7 +30,7 @@ struct Me
     public static string Locale { get; } = "tr_TR.UTF-8";
     public static List<string> Code { get; set; } = new List<string> { "HTML", "CSS", "Javascript", "C#" };
     public static List<string> Technologies { get; set; } = new List<string> { "Node", "Vue" };
-    public static List<string> CurrentlyLearning { get; set; } = new List<string> { "Asp.Net Core MVC", "Unity" };
+    public static List<string> CurrentlyLearning { get; set; } = new List<string> { "Asp.Net Core", "Unity" };
     public static List<string> Hobbies { get; set; } = new List<string> { "Programming", "Discovering Linux", "Thinking" };
     public static string FutureGoal { get; set; } = "{To live doing what I enjoy and to die in peace} without needing anyone";
 }
