@@ -22,16 +22,16 @@
 ```csharp
 namespace EmirhanPala;
 
-struct Me
+struct TheCoolGuy
 {
     public static string Pronouns { get; } = "He/Him";
     public static ushort Uptime { get; set; } = 16;
     public static string Host { get; set; } = "Earth/Turkey";
     public static string Locale { get; } = "tr_TR.UTF-8";
-    public static List<string> Code { get; set; } = new List<string> { "HTML", "CSS", "Javascript", "C#" };
-    public static List<string> Technologies { get; set; } = new List<string> { "Node", "Vue" };
-    public static List<string> CurrentlyLearning { get; set; } = new List<string> { "Asp.Net Core", "Unity" };
-    public static List<string> Hobbies { get; set; } = new List<string> { "Programming", "Discovering Linux", "Thinking" };
+    public static List<string> Code { get; set; } = new() { "HTML", "CSS", "Javascript", "C#" };
+    public static List<string> Technologies { get; set; } = new() { "Node", "Vue" };
+    public static List<string> CurrentlyLearning { get; set; } = new() { "Asp.Net Core" };
+    public static List<string> Hobbies { get; set; } = new() { "Programming", "Discovering Linux", "Thinking" };
     public static string FutureGoal { get; set; } = "{To live doing what I enjoy and to die in peace} without needing anyone";
 }
 ```
