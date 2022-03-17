@@ -31,7 +31,7 @@ struct TheCoolGuy
     public static List<string> Code { get; set; } = new() { "HTML", "CSS", "Javascript", "C#" };
     public static List<string> Technologies { get; set; } = new() { "Node", "Vue" };
     public static List<string> CurrentlyLearning { get; set; } = new() { "Asp.Net Core" };
-    public static string FutureGoal { get; set; } = "{To live doing what I enjoy and to die in peace} without needing anyone";
+    public static List<string> Hobbies { get; set; } = new() { "Developing websites", "Discovering and ricing linux", "Bullying people who use Windows or MacOS", "Watching anime", "Thinking about how society sucks" };
 }
 ```
 
