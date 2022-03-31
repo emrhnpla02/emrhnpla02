@@ -29,8 +29,8 @@ struct TheCoolGuy
     public static string Host { get; set; } = "Earth/Turkey";
     public static string Locale { get; } = "tr_TR.UTF-8";
     public static List<string> Code { get; set; } = new() { "HTML", "CSS", "Javascript", "C#" };
-    public static List<string> Technologies { get; set; } = new() { "Node", "Vue" };
-    public static List<string> CurrentlyLearning { get; set; } = new() { "Asp.Net Core" };
+    public static List<string> Technologies { get; set; } = new() { "Node", "Tailwindcss" , "Vue" };
+    public static List<string> CurrentlyLearning { get; set; } = new() { "Asp.Net Core", "Blazor" };
     public static List<string> Hobbies { get; set; } = new() { "Developing websites", "Discovering and ricing linux", "Bullying people who use Windows or MacOS", "Watching anime", "Thinking about how society sucks" };
 }
 ```
