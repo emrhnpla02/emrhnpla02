@@ -26,7 +26,7 @@ const EmirhanPala: IWebDeveloper = {
   host: "Earth/Turkey",
   locales: ["en_US.UTF-8", "tr_TR.UTF-8"],
   languages: ["html", "css", "js", "ts", "c#"],
-  librariesFrameworks: ["tailwindcss", "react", "nextjs"],
+  librariesFrameworks: ["tailwindcss", "reactjs", "nextjs"],
   otherTechs: ["git", "nodejs", "postgresql", "redis"]
 };
 ```
