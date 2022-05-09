@@ -19,20 +19,16 @@
   <h1> Hello There! <img src="https://media.giphy.com/media/TIdt68MAB8sEKCRC6f/giphy.gif" width="30px"/></h3>
 </div>
 
-```csharp
-namespace EmirhanPala;
-
-struct TheCoolGuy
-{
-    public static string Pronouns { get; } = "He/Him";
-    public static ushort Uptime { get; set; } = 16;
-    public static string Host { get; set; } = "Earth/Turkey";
-    public static string Locale { get; } = "tr_TR.UTF-8";
-    public static List<string> Code { get; set; } = new() { "HTML", "CSS", "Javascript", "C#" };
-    public static List<string> Technologies { get; set; } = new() { "Node", "Tailwindcss" , "Vue" };
-    public static List<string> CurrentlyLearning { get; set; } = new() { "Asp.Net Core", "Blazor" };
-    public static List<string> Hobbies { get; set; } = new() { "Developing websites", "Discovering and ricing linux", "Bullying people who use Windows or MacOS", "Watching anime", "Thinking about how society sucks" };
-}
+```typescript
+const EmirhanPala: IWebDeveloper = {
+  pronouns: "He/Him",
+  uptime: 16,
+  host: "Earth/Turkey",
+  locales: ["en_US.UTF-8", "tr_TR.UTF-8"],
+  languages: ["html", "css", "js", "ts", "c#"],
+  librariesFrameworks: ["tailwindcss", "react", "nextjs"],
+  otherTechs: ["git", "nodejs", "postgresql", "redis"],
+};
 ```
 
 ---
