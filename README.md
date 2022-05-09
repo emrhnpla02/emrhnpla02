@@ -27,7 +27,7 @@ const EmirhanPala: IWebDeveloper = {
   locales: ["en_US.UTF-8", "tr_TR.UTF-8"],
   languages: ["html", "css", "js", "ts", "c#"],
   librariesFrameworks: ["tailwindcss", "react", "nextjs"],
-  otherTechs: ["git", "nodejs", "postgresql", "redis"],
+  otherTechs: ["git", "nodejs", "postgresql", "redis"]
 };
 ```
 
