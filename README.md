@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <h1> Hello There! <img src="https://media.giphy.com/media/TIdt68MAB8sEKCRC6f/giphy.gif" width="30px"/></h3>
+  <h1> Hello There! <img src="https://media.giphy.com/media/TIdt68MAB8sEKCRC6f/giphy.gif" width="50px" height="50px"/></h3>
 </div>
 
 ```typescript
@@ -35,7 +35,7 @@ const EmirhanPala: IWebDeveloper = {
 ---
 
 <div id="stats" align="center">
-  <h1> Here is my stats: <img src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif" width="30px"/></h3>
+  <h1> Here is my stats: <img src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif" width="30px" height="30px"/></h3>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emrhnpla02&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
