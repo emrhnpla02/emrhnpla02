@@ -22,7 +22,7 @@
 ```typescript
 const EmirhanPala: IWebDeveloper = {
   pronouns: "He/Him",
-  uptime: 16,
+  uptime: 17,
   host: "Earth/Turkey",
   locales: ["en_US.UTF-8", "tr_TR.UTF-8"],
   languages: ["html", "css", "js", "ts", "c#"],
