@@ -7,8 +7,8 @@
     <a href="mailto:emrhnpla02@protonmail.com">
       <img src="https://img.shields.io/badge/Protonmail-gray?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail Badge"/>
     </a>
-    <a href="https://mastodon.social/web/@emrhnpla02">
-      <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+    <a href="https://twitter.com/emrhnpla02">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
 </div>    
