@@ -27,7 +27,7 @@ const EmirhanPala: IWebDeveloper = {
   locales: ["en_US.UTF-8", "tr_TR.UTF-8"],
   languages: ["html", "css", "js", "ts", "c#"],
   frontend: ["tailwindcss", "reactjs", "nextjs"],
-  backend: ["nodejs", "postgresql", "redis"],
+  backend: ["nodejs", "supabase", "redis"],
   devEnv: ["git", "github", "neovim", "linux", "archlinux"]
 };
 ```
@@ -35,7 +35,7 @@ const EmirhanPala: IWebDeveloper = {
 ---
 
 <div id="stats" align="center">
-  <h1> Here is my stats: <img src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif" width="30px" height="30px"/></h3>
+  <h1> Here are my stats: <img src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif" width="30px" height="30px"/></h3>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emrhnpla02&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
